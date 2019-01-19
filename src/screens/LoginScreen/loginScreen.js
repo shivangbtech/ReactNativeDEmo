@@ -41,4 +41,4 @@ class loginScreen extends PureComponent {
     }
 }
 
-export default homeScreen;
+export default loginScreen;
